@@ -3,3 +3,6 @@
 # 视频教程
 ## 抖音：有趣的80后程序员
 ## youtube：https://www.youtube.com/@sunleyan_2021
+
+
+## comfyui
